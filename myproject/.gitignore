@@ -1,0 +1,44 @@
+# Python Byte-Code Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django Stuff
+db.sqlite3
+*.sqlite3
+/media/
+
+# Environments
+.env
+*.env
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv/
+.VENV/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Logs and Debugging Files
+*.log
+*.pot
+*.pyc
+
+# IDE Files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Static and Media Files
+/staticfiles/
+/mediafiles/
+
+# macOS Files
+*.DS_Store
